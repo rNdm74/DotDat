@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Power_Options.Classes.PowerPlan" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Classes\PowerPlan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Classes.ProcessManager" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAgCAAAAIAAAAIAAAAAAABAAAABAA=</HashCode>
+      <FileName>Classes\ProcessManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.WinAPI" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAEAYAAAEAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\WinAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Form.FormControls" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form\FormControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Form.TrayIconContextMenu" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAgAAACAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Form\TrayIconContextMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Form.FormLabels" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form\FormLabels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Form.FormLayout" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form\FormLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Form.LayoutRectangles" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAQAAAQEAAAAAAAAAABAIAA=</HashCode>
+      <FileName>Form\LayoutRectangles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Form.MainForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Form.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAKAAAIAAAAAAAAACAAQAAAAAAAAARACAAAA=</HashCode>
+      <FileName>Form\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Form.RadioButtons" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form\RadioButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAEAAAIAQAAAAACBUAAAAQEEAoAhAAAAMAgACIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power_Options.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Power_Options.Classes.Schemes">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Schemes.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Power_Options.Classes.ToolTips">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAgAAAAACAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ToolTips.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Power_Options.Form.PowerOptions">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAgAAEAAAA=</HashCode>
+      <FileName>Form\PowerOptions.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Power_Options.Classes.TaskbarPosition" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Classes\TaskbarPosition.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
